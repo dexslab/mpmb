@@ -10,7 +10,7 @@ SourceList["HA:G"] = {
 
 AmmoList["ha:rounds"] = {
     name: "Rounds",
-    source: ["HA-Gunslinger", 10],
+    source: ["HA:G", 10],
     icon: "Bullets",
     weight: 0.05,
     invName: "Rounds",
@@ -37,7 +37,7 @@ GearList["ha:rounds"] = {
 
 AmmoList["ha:heat_seekers"] = {
     name: "Heat Seekers",
-    source: ["HA-Gunslinger", 10],
+    source: ["HA:G", 10],
     icon: "Bullets",
     weight: 0.05,
     invName: "Heat Seekers",
@@ -55,7 +55,7 @@ GearList["ha:heat_seekers"] = {
 
 AmmoList["ha:incendiary"] = {
     name: "Incendiary",
-    source: ["HA-Gunslinger", 10],
+    source: ["HA:G", 10],
     icon: "Bullets",
     weight: 0.05,
     invName: "Incendiary",
@@ -73,7 +73,7 @@ GearList["ha:incendiaries"] = {
 
 AmmoList["ha:silvered"] = {
     name: "Silvered",
-    source: ["HA-Gunslinger", 10],
+    source: ["HA:G", 10],
 
     icon: "Bullets",
     weight: 0.05,
@@ -92,7 +92,7 @@ GearList["ha:silvered"] = {
 
 AmmoList["ha:shotshells"] = {
     name: "Shotshells",
-    source: ["HA-Gunslinger", 10],
+    source: ["HA:G", 10],
 
     icon: "Bullets",
     weight: 0.05,
