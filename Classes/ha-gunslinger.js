@@ -446,10 +446,7 @@ ClassList["gunslinger"] = {
 
     equipment:
         "Gunslinger starting equipment:\n  \u2022 leather armor and a simple weapon of my choice;\n  \u2022 a sidearm and 20 rounds;\n  \u2022 (a) a hand cannon and 20 rounds or (b) a repeating rifle and 20 rounds or (c) a sawed-off shotgun and 20 shotshells;\n  \u2022 A dungeoneer's pack -or- an explorer's pack.\n\nIf I forgo this starting equipment, as well as the items offered by my background, I start with 6d4 \xD7 10 gp to buy my equipment",
-    subclasses: [
-        "Gunslinger Trails",
-        ["maverick", "beastrider", "enforcer", "preacher", "revelator"],
-    ],
+    subclasses: ["Gunslinger Trails",[],],
     attacks: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
 
     features: {
