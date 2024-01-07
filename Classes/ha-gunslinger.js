@@ -490,9 +490,9 @@ ClassList["gunslinger"] = {
                     "While I am holding a firearm, when a creature I can\n see within 60 feet of me makes an attack against a creature\n other than me, I can spend 1 grit point as a reaction\n to impose disadvantage on the attack roll.",
             },
             "dodge roll": {
-                name: "Protection Fighting Style",
+                name: "Dodge Roll",
                 description:
-                    "When a creature I can see makes a ranged attack against\n me, I can spend 1 grit point to impose disadvantage on\n the attack roll.",
+                    "You can spend 1 grit point as a bonus action to move\n up to 10 feet without provoking opportunity attacks.\n You can’t take this bonus action if your speed is 0.",
             },
         },
         "extra attack": {
