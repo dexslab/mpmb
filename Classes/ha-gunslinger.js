@@ -446,10 +446,7 @@ ClassList["gunslinger"] = {
 
     equipment:
         "Gunslinger starting equipment:\n  \u2022 leather armor and a simple weapon of my choice;\n  \u2022 a sidearm and 20 rounds;\n  \u2022 (a) a hand cannon and 20 rounds or (b) a repeating rifle and 20 rounds or (c) a sawed-off shotgun and 20 shotshells;\n  \u2022 A dungeoneer's pack -or- an explorer's pack.\n\nIf I forgo this starting equipment, as well as the items offered by my background, I start with 6d4 \xD7 10 gp to buy my equipment",
-    subclasses: [
-        "Gunslinger Trails",
-        ["maverick", "beastrider", "enforcer", "preacher", "revelator"],
-    ],
+    subclasses: ["Gunslinger Trails",[],],
     attacks: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
 
     features: {
@@ -493,9 +490,9 @@ ClassList["gunslinger"] = {
                     "While I am holding a firearm, when a creature I can\n see within 60 feet of me makes an attack against a creature\n other than me, I can spend 1 grit point as a reaction\n to impose disadvantage on the attack roll.",
             },
             "dodge roll": {
-                name: "Protection Fighting Style",
+                name: "Dodge Roll",
                 description:
-                    "When a creature I can see makes a ranged attack against\n me, I can spend 1 grit point to impose disadvantage on\n the attack roll.",
+                    "You can spend 1 grit point as a bonus action to move\n up to 10 feet without provoking opportunity attacks.\n You can’t take this bonus action if your speed is 0.",
             },
         },
         "extra attack": {
